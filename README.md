@@ -1,4 +1,4 @@
-# Primer trabajo de laboratorio
+# proyecto_pelis
 
 ## Tecnologías utilizadas
 
